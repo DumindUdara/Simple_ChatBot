@@ -105,3 +105,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [OpenAI](https://openai.com/) for the GPT-3.5-Turbo model.
 - [Streamlit](https://streamlit.io/) for the interactive web app framework.
 
+
+## Final output
+
+<img width="1440" alt="Screenshot 2025-01-14 at 14 55 10" src="https://github.com/user-attachments/assets/7b014a39-6878-4e7a-a3de-f3e8a96c0b76" />
+
+
