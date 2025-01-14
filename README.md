@@ -7,6 +7,18 @@ This repository contains a simple chat application built with Streamlit and Open
 - User and assistant chat message containers
 - Persistent chat history during app session
 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=social)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+
+![Data Source](https://img.shields.io/badge/dataset-Kaggle-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
+
 ## Prerequisites
 
 Before running the application, ensure you have the following:
